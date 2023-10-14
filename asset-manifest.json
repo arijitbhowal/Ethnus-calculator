@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ethnus-calculator/static/css/main.55079713.css",
+    "main.js": "/Ethnus-calculator/static/js/main.ab43fc14.js",
+    "static/js/787.97c71ab1.chunk.js": "/Ethnus-calculator/static/js/787.97c71ab1.chunk.js",
+    "static/media/bg01.png": "/Ethnus-calculator/static/media/bg01.2f0e885712b0acf487cd.png",
+    "index.html": "/Ethnus-calculator/index.html",
+    "main.55079713.css.map": "/Ethnus-calculator/static/css/main.55079713.css.map",
+    "main.ab43fc14.js.map": "/Ethnus-calculator/static/js/main.ab43fc14.js.map",
+    "787.97c71ab1.chunk.js.map": "/Ethnus-calculator/static/js/787.97c71ab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55079713.css",
+    "static/js/main.ab43fc14.js"
+  ]
+}
